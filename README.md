@@ -1,7 +1,7 @@
 ## Ola eu sou o Jonnathan Mesquita, estudante e criador de conteúdo de programação e tecnologia!
 
 
-- 🔭 Atualmente estou focado em projetos de Ract, JavaScript, jQuery, TypeScript entre outros....
+- 🔭 Atualmente estou focado em projetos de React, JavaScript, jQuery, TypeScript entre outros....
 - 🌱 Estudando JavaScript | TypeScript | jQuery | SASS | LESS | ES6+ | React | Bootstrap | Python
 - 😄 Ele/Dele
 
