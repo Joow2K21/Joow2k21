@@ -1,4 +1,4 @@
-## Oi eu sou o Jonnathan Mesquita, criadora de conteúdo de programação e tecnologia!
+## Ola eu sou o Jonnathan Mesquita, estudante e criador de conteúdo de programação e tecnologia!
 
 
 - 🔭 Atualmente estou focado em projetos de Ract, JavaScript, jQuery, TypeScript entre outros....
